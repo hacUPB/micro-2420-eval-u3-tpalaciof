@@ -1,0 +1,43 @@
+# Ignorar directorios y archivos generados por el IDE
+/.build/
+/Output/
+/Debug/
+/Release/
+
+# Ignorar archivos temporales
+*.user
+*.temp
+*.log
+*.bak
+*.swp
+
+# Ignorar archivos de sesión del IDE
+/.ses/
+
+# Ignorar archivos generados de compilación
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.lst
+
+# Ignorar archivos de configuración del IDE que no deben compartirse
+*.project
+*.cproject
+
+# Ignorar archivos de configuración específicos del usuario
+*.launch
+*.settings/
+
+# Ignorar otros archivos de configuración específicos de Segger Embedded Studio
+*.pew
+*.xml
+
+# Ignorar otros archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas ocultas del sistema operativo
+Desktop.ini
