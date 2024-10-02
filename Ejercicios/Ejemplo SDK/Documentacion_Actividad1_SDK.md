@@ -18,4 +18,6 @@ y el mux del pin verde nuevo:
 
 y por lo tanto el bucle quedó de la siguiente manera: ![alt text](image-7.png)
 
-comentando las lineas de código que apagaban nuevamente los leds
+comentando las lineas de código que apagaban nuevamente los leds. 
+
+Por lo tanto, el código final, daría como resultado el objetivo propuesto, donde gracias al macro toggle del GPIO, se enciende el led rojo de la tarjeta, luego gracias al macro toggle del GPIO, se enciende inmediatamente el led verde, una vez activado el puerto como mostré anteriomente: activando su GPIO respectivo, y el mux del puerto, luego de haberlo definido. 
