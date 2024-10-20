@@ -1,0 +1,11 @@
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\drivers/fsl_clock.h:784:20:CLOCK_SetVlprModeSysClkConfig	24	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\drivers/fsl_clock.h:804:20:CLOCK_SetRunModeSysClkConfig	24	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\drivers/fsl_clock.h:824:20:CLOCK_SetHsrunModeSysClkConfig	24	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\drivers/fsl_clock.h:844:20:CLOCK_GetCurSysClkConfig	24	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\drivers/fsl_smc.h:256:20:SMC_SetPowerModeProtection	16	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\drivers/fsl_smc.h:275:33:SMC_GetPowerModeState	16	static
+../board/clock_config.c:69:13:CLOCK_CONFIG_FircSafeConfig	32	static
+../board/clock_config.c:107:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:192:6:BOARD_BootClockVLPR	8	static
+../board/clock_config.c:298:6:BOARD_BootClockRUN	16	static
+../board/clock_config.c:402:6:BOARD_BootClockHSRUN	16	static

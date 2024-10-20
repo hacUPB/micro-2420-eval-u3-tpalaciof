@@ -1,0 +1,10 @@
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\CMSIS/core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\CMSIS/core_cm4.h:2017:26:SysTick_Config	16	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\drivers/fsl_gpio.h:182:20:GPIO_PortSet	16	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\drivers/fsl_gpio.h:193:20:GPIO_PortClear	16	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\drivers/fsl_gpio.h:204:20:GPIO_PortToggle	16	static
+C:\Users\tpala\Documents\MCUXpressoIDE_24.9.25\workspace\hvpke18f_led_blinky\drivers/fsl_gpio.h:223:24:GPIO_PinRead	16	static
+../source/led_blinky.c:42:6:SysTick_Handler	4	static
+../source/led_blinky.c:50:6:SysTick_DelayTicks	16	static
+../source/led_blinky.c:58:6:Teclado	24	static
+../source/led_blinky.c:110:5:main	40	static

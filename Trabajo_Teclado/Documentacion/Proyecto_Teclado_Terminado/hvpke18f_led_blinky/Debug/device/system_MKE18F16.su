@@ -1,0 +1,3 @@
+../device/system_MKE18F16.c:71:6:SystemInit	8	static
+../device/system_MKE18F16.c:110:6:SystemCoreClockUpdate	24	static
+../device/system_MKE18F16.c:152:29:SystemInitHook	4	static
