@@ -388,4 +388,4 @@ int main(void)
 
 La base fundamental de este algorítmo, es su ciclo for, el cual va recorriendo cada valor de fila (fila1,fila2,...,etc) y según el estado en que se encuentre, irá activando esta salida-fila, correspondiente (con un cero). Al hacer esto, y el resto de filas desactivadas, revisará cada estado de las columnas en esta fila. Si se oprime alguna, su estado será cero y se encenderá el led, sino, continuará apagado el led, y avanzará el ciclo con el siguiente estado de fila. 
 
-<video controls src="Video de WhatsApp 2024-10-19 a las 23.00.23_cda1e449.mp4" title="Title"></video>
+<video controls src="Video de WhatsApp 2024-10-19 a las 23.49.18_0c5bfe21.mp4" title="Title"></video>
